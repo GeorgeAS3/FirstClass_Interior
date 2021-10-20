@@ -119,6 +119,11 @@ h3, h4, h5, h6{
     
   }
 
+  #contact{
+    height: 50px;
+    width: 50px;
+  }
+
   #CEO{
     height: auto;
     width: auto;
