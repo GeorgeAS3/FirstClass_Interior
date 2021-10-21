@@ -91,3 +91,129 @@ function Contact_HFC_Function() { document.getElementById("ContFS").style.color=
 function Contact_Info_Function() { document.getElementById("Continfo").style.textAlign= "right";} 
 
 
+// Shop page
+// button to change purchase to purchased
+var btn_click_buy = 0;
+function buyFunction() {
+  if (0 == btn_click_buy % 2){
+  document.getElementById("buy").innerHTML = "Purchased";
+  btn_click_buy++;
+  }
+  else if (0 != btn_click_buy % 2)
+  {
+  document.getElementById("buy").innerHTML = "Purchase";
+  btn_click_buy++;
+  }
+}
+
+var btn_click_buy2 = 0;
+function buyFunction2() {
+  if (0 == btn_click_buy2 % 2){
+  document.getElementById("buy2").innerHTML = "Purchased";
+  btn_click_buy2++;
+  }
+  else if (0 != btn_click_buy2 % 2)
+  {
+  document.getElementById("buy2").innerHTML = "Purchase";
+  btn_click_buy2++;
+  }
+}
+
+var btn_click_buy3 = 0;
+function buyFunction3() {
+  if (0 == btn_click_buy3 % 2){
+  document.getElementById("buy3").innerHTML = "Purchased";
+  btn_click_buy3++;
+  }
+  else if (0 != btn_click_buy3 % 2)
+  {
+  document.getElementById("buy3").innerHTML = "Purchase";
+  btn_click_buy3++;
+  }
+}
+
+var btn_click_buy4 = 0;
+function buyFunction4() {
+  if (0 == btn_click_buy4 % 2){
+  document.getElementById("buy4").innerHTML = "Purchased";
+  btn_click_buy4++;
+  }
+  else if (0 != btn_click_buy4 % 2)
+  {
+  document.getElementById("buy4").innerHTML = "Purchase";
+  btn_click_buy4++;
+  }
+}
+
+var btn_click_buy5 = 0;
+function buyFunction5() {
+  if (0 == btn_click_buy5 % 2){
+  document.getElementById("buy5").innerHTML = "Purchased";
+  btn_click_buy5++;
+  }
+  else if (0 != btn_click_buy5 % 2)
+  {
+  document.getElementById("buy5").innerHTML = "Purchase";
+  btn_click_buy5++;
+  }
+}
+var btn_click_buy6 = 0;
+function buyFunction6() {
+  if (0 == btn_click_buy6 % 2){
+  document.getElementById("buy6").innerHTML = "Purchased";
+  btn_click_buy6++;
+  }
+  else if (0 != btn_click_buy6 % 2)
+  {
+  document.getElementById("buy6").innerHTML = "Purchase";
+  btn_click_buy6++;
+  }
+}
+var btn_click_buy7 = 0;
+function buyFunction7() {
+  if (0 == btn_click_buy7 % 2){
+  document.getElementById("buy7").innerHTML = "Purchased";
+  btn_click_buy7++;
+  }
+  else if (0 != btn_click_buy7 % 2)
+  {
+  document.getElementById("buy7").innerHTML = "Purchase";
+  btn_click_buy7++;
+  }
+}
+var btn_click_buy8 = 0;
+function buyFunction8() {
+  if (0 == btn_click_buy8 % 2){
+  document.getElementById("buy8").innerHTML = "Purchased";
+  btn_click_buy8++;
+  }
+  else if (0 != btn_click_buy8 % 2)
+  {
+  document.getElementById("buy8").innerHTML = "Purchase";
+  btn_click_buy8++;
+  }
+}
+var btn_click_buy9 = 0;
+function buyFunction9() {
+  if (0 == btn_click_buy9 % 2){
+  document.getElementById("buy9").innerHTML = "Purchased";
+  btn_click_buy9++;
+  }
+  else if (0 != btn_click_buy9 % 2)
+  {
+  document.getElementById("buy9").innerHTML = "Purchase";
+  btn_click_buy9++;
+  }
+}
+var btn_click_buy10 = 0;
+function buyFunction10() {
+  if (0 == btn_click_buy10 % 2){
+  document.getElementById("buy10").innerHTML = "Purchased";
+  btn_click_buy10++;
+  }
+  else if (0 != btn_click_buy10 % 2)
+  {
+  document.getElementById("buy10").innerHTML = "Purchase";
+  btn_click_buy10++;
+  }
+}
